@@ -2,7 +2,7 @@
 title: Getting started
 layout: default
 nav_order: 4
-parent: flutter
+parent: Flutter
 ---
 
 ## Goal

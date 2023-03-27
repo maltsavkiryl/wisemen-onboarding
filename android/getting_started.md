@@ -2,7 +2,7 @@
 title: Getting started
 layout: default
 nav_order: 2
-parent: android
+parent: Android
 ---
 
 ## 1. Project setup

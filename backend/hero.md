@@ -2,7 +2,7 @@
 title: Hero
 layout: default
 nav_order: 4
-parent: backend
+parent: Backend
 ---
 
 ## How to become a frontend hero in 10 steps
