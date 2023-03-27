@@ -1,9 +1,10 @@
 ---
 title: Requirements
-layout: home
+layout: default
+nav_order: 3
 ---
 
-#### 2. Requirements
+## Requirements
 - Requirements & features
 - Designs
 - API documentation

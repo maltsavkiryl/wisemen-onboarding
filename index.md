@@ -1,20 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-YOLO SWAG
-
-# Onboarding Web
-
-## Getting started
-
-#### 1. Project setup
-Generate a new project
-
-`npm init vue@latest`
-
-#### 3. How to become a frontend hero in 10 steps
+## How to become a frontend hero in 10 steps
 
 1. [Project structure](https://github.com/maltsavkiryl/thefrontendbible/blob/main/project-structure.md)
    - Routing
@@ -59,38 +49,3 @@ Generate a new project
     - Hosting
     - Environments
 
-## Goal
-- Typescript
-  - Best practices
-  - Interfaces, Types, Generics, Enum, ...
-  - Map, Sort, Filter, Flatmap, ...
-- Vue 3/Nuxt
-  - Props, Emit, onMounted, defineExpose, ...
-  - Composition API*
-  - Pinia store, Router, i18n, ...
-  - Http, interceptors, authenticatie, ...
-  - Dependencies, Scripts, ...
-  - Icons
-  - i18n
-- Tailwind
-  - Best practices
-  - Responsive design
-  - Theming, Colors, Fonts, ... (configuration)
-  - Components
-- Architecture
-  - Folder structure
-    - Views, services, composables, models, ...
-  - Component design
-  - Smart vs Dumb components
-- CI/CD
-  - env files
-  - Deployment pipelines
-
-## Documentation
-
-- [Vue 3](https://v3.vuejs.org/)
-- [Nuxt](https://nuxtjs.org/)
-- [Pinia](https://pinia.esm.dev/)
-- [Tailwind](https://tailwindcss.com/)
-- [Typescript](https://www.typescriptlang.org/)
-- [VueUse](https://vueuse.org/)
