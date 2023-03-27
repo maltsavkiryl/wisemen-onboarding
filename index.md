@@ -14,11 +14,6 @@ Generate a new project
 
 `npm init vue@latest`
 
-#### 2. Requirements
-- Requirements & features
-- Designs
-- API documentation
-
 #### 3. How to become a frontend hero in 10 steps
 
 1. [Project structure](https://github.com/maltsavkiryl/thefrontendbible/blob/main/project-structure.md)
