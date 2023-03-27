@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Goals
 layout: default
 nav_order: 4
 parent: Flutter
